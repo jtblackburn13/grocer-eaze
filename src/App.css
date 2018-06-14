@@ -1,0 +1,90 @@
+body{
+  background-color: skyblue;
+}
+
+.form{
+  text-align: center;
+  background-color: lightblue;
+  margin: 10%;
+  border: 3px solid black;
+  padding: 5px;
+}
+
+.recipe{
+  text-align: left;
+  margin: 10px 15px;
+}
+
+.results{
+  text-align: center;
+  background-color: lightblue;
+  margin: 10%;
+  border: 3px solid black;
+  padding: 5px;
+}
+
+.groceryListBox {
+  text-align: left;
+  margin: 0px 20px;
+}
+
+.sectionHeading{
+  background-color: black;
+  color: white;
+  margin: 0px;
+  padding: 10px 5px;
+}
+
+.pageTitle{
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-size: 50px;
+  margin: 0px;
+  padding: 5px 15px;
+}
+
+.subtitle{
+  background-color: black;
+  color: white;
+  text-align: center;
+  margin: 0px;
+  padding-bottom: 10px;
+  font-size: 14px;
+}
+
+.blue{
+  color: skyblue;
+}
+
+.submit {
+  background-color: blue;
+  color: white;
+  font-weight: bold;
+  transition-duration: 0.4s;
+  width: 175px;
+  height: 40px;
+  border: 2px solid black;
+
+}
+
+.submit:hover{
+  background-color: white;
+  color: blue;
+  font-weight: bold;
+  border: 2px solid blue;
+}
+
+.button {
+  text-align: center;
+  padding: 20px;
+}
+
+.staples {
+  border: 2px solid black;
+  padding: 5px;
+}
+
+.footer{
+  text-align: center;
+}
